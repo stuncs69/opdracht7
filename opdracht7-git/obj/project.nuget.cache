@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxBXSmCA6ukpi/AZnOAmxLxPXM5mz6UY53Y7c5yfTnlAcxy5X/ZyUrKm19XkCJUv4zc1be1q1JTnb28BC4baUw==",
+  "success": false,
+  "projectFilePath": "/home/stuncs/Documents/dev/opdracht7-git/opdracht7-git/opdracht7-git.csproj",
+  "expectedPackageFiles": [
+    "/home/stuncs/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512",
+    "/home/stuncs/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512",
+    "/home/stuncs/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net7.0-ios, net7.0-maccatalyst"
+    }
+  ]
+}
